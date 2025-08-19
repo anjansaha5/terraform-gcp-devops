@@ -1,0 +1,5 @@
+gcp_project   = "learn-gcp-with-anjan"
+gcp_region1   = "us-central1"
+machine_type  = "e2-micro"
+environment     = "dev"
+business_divsion = "hr"
