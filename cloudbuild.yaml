@@ -1,3 +1,5 @@
+logsBucket: gs://cloud-build-log-bucket-anjan/
+
 steps:
 - id: 'branch name'
   name: 'alpine'
